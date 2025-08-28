@@ -6,4 +6,4 @@ def dsin(x):
 def dcos(x):
     return cos(radians(x))
 
-# testing khan
+# testing khan 2
