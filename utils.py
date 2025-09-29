@@ -305,9 +305,9 @@ class Vector:
 
 ##########################################################
 
-test_add = True
+test_add = False
 
-if test_add == True:
+if test_add:
 
     v1 = Vector((3,4))
 
